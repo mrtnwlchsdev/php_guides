@@ -15,15 +15,15 @@ XAMPP es una herramienta que incluye todo lo necesario para crear un entorno de 
 - Descargar XAMPP desde la web oficial.
 - Hacer que el paquete descargado sea ejecutable.
 
-        chmod 755 <package_name>
+      chmod 755 <package_name>
 
 - Comprobar que se pueda ejecutar el paquete con los permisos del usuario actual.
 
-        ls -l <package_name>
+      ls -l <package_name>
 
 - Ejecutar el instalador desde la terminal.
 
-        sudo ./<package_name>
+      sudo ./<package_name>
 
 Seguir los pasos de instalacion correspondientes indicados por la interfaz grafica.
 
