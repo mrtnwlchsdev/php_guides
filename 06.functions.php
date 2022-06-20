@@ -56,11 +56,3 @@ $user = function($name) {
 
 // Los argumentos son pasados a la funcion anonima a traves de la variable a la cual se ha asignado
 $user('Martin');
-
-// Funciones de tipo flecha
-// Estas funciones permiten simplificar la declaracion de funciones
-$sum = fn($n1,$n2) => $n1 + $n2;
-$sum(10,20);
-
-// Se abrevia el uso de la palabra function por fn
-// Si el bloque de codigo de la funcion solo es de una linea, se puede omitir el uso de return y de las llaves {}
