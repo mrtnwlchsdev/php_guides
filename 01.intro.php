@@ -1,16 +1,14 @@
 <?php
-// Un documento que contenga codigo PHP inicia con la declaracion <?php
+
+// El codigo PHP se debe declarar posterior a la sentencia <?php
 
 // Comentarios de una sola linea
 
 /*
-    Comentarios de 
-    varias lineas
+    Comentarios de multiples lineas  
 */
 
 // Impresion por pantalla
 echo 'Hello World';
-print 'Elephant';
 
-// Todas las declaraciones en PHP finalizan con ;
-echo 'PHP is fantastic';
+// Todas las sentencias del lenguaje PHP deben finalizar con punto y coma ;
